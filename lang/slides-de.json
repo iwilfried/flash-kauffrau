@@ -1,8 +1,8 @@
 {
-	"title": "Kaufleute mit eCommerce",
+	"title": "Kaufleute im eCommerce",
 	"lesson": "Q & A",
 	"welcome": "Willkommen",
-	"main_screen_subtitle" : "Nutze diese Lernkarten, um Vokabeln, Begriffe und eCommerce zu lernen und zu verstehen.",
+	"main_screen_subtitle" : "Nutze diese Lernkarten, um Vokabeln, Begriffe im eCommerce zu lernen und zu verstehen.",
 	"learn_more" : "Mehr erfahren...",
 	"start_studying" : "Beginne zu lernen",
 	"got_it": "gewusst",
@@ -55,6 +55,11 @@
 					"First Side": "Was ist ein \n<red36>Sortiment?</red36>",
 					"Second Side": "Gesamtzahl aller Leistungen, die in einem Handelsbetrieb von Hersteller oder Händler angeboten werden.",
 					"Learn more": "Beim Sortiment handelt es sich um die Gesamtheit aller beschafften oder selbst hergestellten Leistungen, die ein Handelsunternehmen seinen Kunden anbietet. Diese Leistungen können Produkte, Energien (wie Strom und Gas), aber auch Dienstleistungen sein.\n\nDas Sortiment, oder auch Absatzprogramm, sollte nicht mit dem Produktionsprogramm verwechselt werden. Bei letzterem handelt es sich nämlich nur um die Gesamtheit der selbst hergestellten Leistungen eines produzierenden Unternehmens."
+				},
+				{
+					"First Side": "Welche <red36>Sortimentsarten?</red36>gibt es?",
+					"Second Side": "Tiefes Sortiment - Flaches Sortiment - Breites Sortiment - Schmales Sortiment",
+					"Learn more": "In der Praxis gibt es zahlreiche Verbraucher, die zum Beispiel den Supermarkt oder das Kaufhaus danach auswählen, wie groß die Sortimentsbreite ist. In der Regel verbindet man die Breite des Sortiments damit, dass es bestimmte Warengruppen in einer großen Vielfalt gibt und Kunden vor allem ganz unterschiedliche Produkte in einem Geschäft kaufen können. Doch was bedeutet dies Sortimentsbreite eigentlich im Detail, welche Sortimentsarten gibt es und was ist der Unterschied zur Sortimentstiefe?"
 				}	
 			
 			],
